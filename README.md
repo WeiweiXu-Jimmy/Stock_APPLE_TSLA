@@ -1,4 +1,4 @@
-# Stock_APPLE_TSLA
+# Data Visualization: Stock_APPLE_TSLA 
 
 Présentation en Dash
 
